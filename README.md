@@ -1,5 +1,5 @@
 # Personal Website Template
-A personal portfolio is an evidentiary document designed to provide qualitative and quantitative information. It is different from a resume in that its intent is not to summarize, but to expand upon and provide evidence relating to accomplishments, skills and experiences, in the classroom, workplace, and community in which you live.
+A personal portfolio is an evidentiary document and is designed to provide qualitative and quantitative information. It is different from a resume in the sense that its intent is not to summarize, but to expand upon and provide evidence relating to accomplishments, skills and experiences, in the classroom, workplace, and community in which you live.
 
 # Screenshot
 <img scr="A1.png">
@@ -15,4 +15,4 @@ A personal portfolio is an evidentiary document designed to provide qualitative 
 <a href="https://github.com/Sakshamoo17">Github</a>
 <br>
 <a href="https://www.linkedin.com/in/saksham-sharma-bb576b167/">Linkedin</a>
-..............................
+...........................
